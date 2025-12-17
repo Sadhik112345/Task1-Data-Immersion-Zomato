@@ -1,0 +1,149 @@
+name,online_order,book_table,rate,votes,approx_cost(for two people),listed_in(type),cost_category
+Jalsa,True,True,4.1,775,800,Buffet,High
+Spice Elephant,True,False,4.1,787,800,Buffet,High
+San Churro Cafe,True,False,3.8,918,800,Buffet,High
+Addhuri Udupi Bhojana,False,False,3.7,88,300,Buffet,Low
+Grand Village,False,False,3.8,166,600,Buffet,High
+Timepass Dinner,True,False,3.8,286,600,Buffet,High
+Rosewood International Hotel - Bar & Restaurant,False,False,3.6,8,800,Buffet,High
+Onesta,True,True,4.6,2556,600,Cafes,High
+Penthouse Cafe,True,False,4.0,324,700,other,High
+Smacznego,True,False,4.2,504,550,Cafes,High
+Village Café,True,False,4.1,402,500,Cafes,Medium
+Cafe Shuffle,True,True,4.2,150,600,Cafes,High
+The Coffee Shack,True,True,4.2,164,500,Cafes,Medium
+Caf-Eleven,False,False,4.0,424,450,Cafes,Medium
+San Churro Cafe,True,False,3.8,918,800,Cafes,High
+Cafe Vivacity,True,False,3.8,90,650,Cafes,High
+Catch-up-ino,True,False,3.9,133,800,Cafes,High
+Kirthi's Biryani,True,False,3.8,144,700,Cafes,High
+T3H Cafe,False,False,3.9,93,300,Cafes,Low
+360 Atoms Restaurant And Cafe,True,False,3.1,13,400,Cafes,Medium
+The Vintage Cafe,True,False,3.0,62,400,Cafes,Medium
+Woodee Pizza,True,False,3.7,180,500,Cafes,Medium
+Cafe Coffee Day,False,False,3.6,28,900,Cafes,High
+My Tea House,True,False,3.6,62,600,Cafes,High
+Hide Out Cafe,False,False,3.7,31,300,Cafes,Low
+CAFE NOVA,False,False,3.2,11,600,Cafes,High
+Coffee Tindi,True,False,3.8,75,200,Cafes,Low
+Sea Green Cafe,False,False,3.3,4,500,Cafes,Medium
+Cuppa,False,False,3.3,23,550,Cafes,High
+Srinathji's Cafe,False,False,3.8,148,550,Cafes,High
+Redberrys,True,False,4.0,219,600,Cafes,High
+Foodiction,True,False,2.8,506,500,other,Medium
+Sweet Truth,True,False,3.9,35,500,Dining,Medium
+Ovenstory Pizza,True,False,3.9,172,750,Dining,High
+Faasos,True,False,4.2,415,500,other,Medium
+Behrouz Biryani,True,False,3.9,230,650,Dining,High
+Fast And Fresh,True,False,2.8,91,400,Dining,Medium
+Szechuan Dragon,True,False,4.2,1647,600,Dining,High
+Empire Restaurant,True,False,4.4,4884,750,other,High
+Maruthi Davangere Benne Dosa,True,False,4.0,17,150,Dining,Low
+Chaatimes,True,False,3.8,133,200,Dining,Low
+Havyaka Mess,False,False,3.9,28,300,Dining,Low
+McDonald's,True,False,3.9,286,500,Dining,Medium
+Domino's Pizza,True,False,3.9,540,800,Dining,High
+Onesta,True,True,4.6,2556,600,other,High
+Hotboxit,False,False,3.8,36,400,Dining,Medium
+Kitchen Garden,True,False,3.6,244,300,Dining,Low
+Recipe,True,False,4.0,804,450,Dining,Medium
+Beijing Bites,True,False,3.7,679,850,Dining,High
+Tasty Bytes,True,False,3.1,245,300,Dining,Low
+Petoo,False,False,3.7,21,450,Dining,Medium
+Shree Cool Point,True,False,4.1,28,150,Dining,Low
+Corner House Ice Cream,False,False,4.3,345,400,Dining,Medium
+Biryanis And More,True,False,4.0,618,750,Dining,High
+Roving Feast,False,False,4.0,1047,450,Dining,Medium
+FreshMenu,True,False,3.9,627,450,Dining,Medium
+Banashankari Donne Biriyani,True,False,3.8,104,300,Dining,Low
+Wamama,True,True,4.2,354,800,other,High
+Five Star Chicken,False,False,3.6,55,200,Dining,Low
+XO Belgian Waffle,True,False,3.7,17,400,Dining,Medium
+Peppy Peppers,False,False,4.2,244,800,other,High
+Goa 0 Km,True,True,3.6,163,800,Dining,High
+Chinese Kitchen,True,False,3.8,58,150,Dining,Low
+Jeet Restaurant,False,True,4.0,808,850,Dining,High
+Cake of the Day,False,False,3.7,78,150,Dining,Low
+Kabab Magic,True,False,4.1,1720,400,Dining,Medium
+Namma Brahmin's Idli,True,False,3.6,34,100,Dining,Low
+Gustoes Beer House,False,False,4.1,868,700,Dining,High
+Sugar Rush,False,False,3.8,39,300,Dining,Low
+Burger King,True,False,3.2,71,600,Dining,High
+The Good Bowl,True,False,3.6,6,500,Dining,Medium
+The Biryani Cafe,False,False,4.1,520,300,Dining,Low
+Spicy Tandoor,False,False,4.1,0,150,Dining,Low
+LSD Cafe,False,False,2.9,84,700,other,High
+Rolls On Wheels,False,False,3.6,299,300,Dining,Low
+Om Sri Vinayaka Chats,False,False,3.6,0,500,Dining,Medium
+Sri Guru Kottureshwara Davangere Benne Dosa,True,False,4.1,558,150,Dining,Low
+Devanna Dum Biriyani Centre,True,False,3.6,28,300,Dining,Low
+Kolbeh,False,False,3.7,22,500,Dining,Medium
+Upahar Sagar,False,False,3.8,39,350,Dining,Medium
+Kadalu Sea Food Restaurant,True,False,3.8,153,500,Dining,Medium
+Frozen Bottle,True,False,4.2,146,400,Dining,Medium
+Parimala Sweets,False,False,3.5,14,200,Dining,Low
+Vaishali Deluxe,False,False,3.8,42,700,Dining,High
+Chill Out,False,False,3.8,0,100,Dining,Low
+The Big O Bakes,False,False,4.0,66,300,Dining,Low
+Meghana Foods,True,False,4.4,4401,600,Dining,High
+Krishna Sagar,False,False,3.5,31,200,Dining,Low
+Dessert Rose,False,False,3.5,7,500,Dining,Medium
+Chickpet Donne Biryani House,False,False,3.7,21,250,Dining,Low
+Me And My Cake,False,False,3.7,0,500,Dining,Medium
+Sunsadm,False,False,3.7,0,400,Dining,Medium
+Annapooraneshwari Mess,False,False,3.7,0,200,Dining,Low
+Thanco's Natural Ice Creams,False,False,3.2,9,300,Dining,Low
+Nandhini Deluxe,False,False,2.6,283,600,Dining,High
+Vi Ra's Bar and Restaurant,False,False,3.3,62,800,Dining,High
+Kaggis,False,False,3.8,64,250,Dining,Low
+Ayda Persian Kitchen,False,False,3.7,39,950,Dining,High
+Chatar Patar,False,False,3.7,65,300,Dining,Low
+Polar Bear,True,False,3.8,71,400,Dining,Medium
+Kidambi's Kitchen,False,False,3.5,52,300,Dining,Low
+Mane Thindi,False,False,3.7,130,200,Dining,Low
+Kotian Karavali Restaurant,False,False,3.5,10,300,Dining,Low
+Floured-Baked With Love,False,False,3.8,45,400,Dining,Medium
+CAFE NOVA,False,False,3.2,11,600,Dining,High
+Cakes & Slices,False,False,3.5,13,300,Dining,Low
+Spice 9,False,False,3.4,8,300,Dining,Low
+Coffee Shopee,False,False,3.4,0,250,Dining,Low
+Naveen Kabab & Biriyani Mane,False,False,3.2,9,300,Dining,Low
+Katriguppe Donne Biryani,False,False,3.2,4,300,Dining,Low
+Hari Super Sandwich,False,False,3.2,0,200,Dining,Low
+Atithi Point Ande Ka Funda,False,False,3.1,29,150,Dining,Low
+Just Bake,False,False,3.4,8,400,Dining,Medium
+Dharwad Line Bazaar Mishra Pedha,False,False,3.4,0,150,Dining,Low
+Cake Bite,False,False,3.4,0,300,Dining,Low
+Aarush's Food Plaza,False,False,3.4,0,200,Dining,Low
+Wood Stove,False,False,3.4,0,150,Dining,Low
+Kulfi & More,False,False,3.4,0,150,Dining,Low
+Kannadigas Karavali,False,False,3.4,0,250,Dining,Low
+K27 - The Pub,False,False,3.1,30,900,Dining,High
+Bengaluru Coffee House,True,False,4.1,201,300,Dining,Low
+New Mangalore Lunch Home,False,False,3.3,7,200,Dining,Low
+Coffee Bytes,False,False,3.1,6,100,Dining,Low
+Parjanya Chat Zone,False,False,3.3,17,200,Dining,Low
+Kwality Wall's Swirl's Happiness Station,False,False,2.9,25,200,Dining,Low
+Soms Kitchen & Bakes,False,False,2.9,0,400,Dining,Medium
+Banashankari Nati Style,False,False,2.9,0,350,Dining,Medium
+Ruchi Maayaka,False,False,3.3,8,100,Dining,Low
+Mohitesh Hut Roll,False,False,3.3,0,150,Dining,Low
+Sri Basaveshwar Jolada Rotti Oota,False,False,3.4,0,150,Dining,Low
+Roll Magic Fast Food,False,False,3.4,0,200,Dining,Low
+Foodlieious Multi Cuisine,False,False,3.4,0,100,Dining,Low
+Thanishka Nati And Karavali Style,False,False,3.1,0,400,Dining,Medium
+Swathi Cool Point,False,False,4.1,0,200,Dining,Low
+Kaumudis Juoice,False,False,3.3,0,150,Dining,Low
+Amma - Manae,False,False,3.1,0,400,Dining,Medium
+Sri Sai Tiffannies,False,False,3.3,0,150,Dining,Low
+Hotel Andhra Speices,False,False,2.9,0,250,Dining,Low
+Sri Murari Family Restaurant,False,False,2.9,0,250,Dining,Low
+Aramane Donne Biriyani,False,False,2.9,0,150,Dining,Low
+Darkolates,False,False,3.3,0,200,Dining,Low
+Swaada Healthy Kitchen,False,False,3.3,0,350,Dining,Medium
+Gawdaru Mane Beriyani,False,False,3.3,0,300,Dining,Low
+Melting Melodies,False,False,3.3,0,100,Dining,Low
+New Indraprasta,False,False,3.3,0,150,Dining,Low
+Anna Kuteera,True,False,4.0,771,450,Dining,Medium
+Darbar,False,False,3.0,98,800,Dining,High
+Vijayalakshmi,True,False,3.9,47,200,Dining,Low
